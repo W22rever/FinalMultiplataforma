@@ -1,0 +1,2 @@
+C:\Users\Mateo\FinalMultiplataforma\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Mateo\FinalMultiplataforma\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

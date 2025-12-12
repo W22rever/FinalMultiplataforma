@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 guid: 38b0b6aa9e228834fbd42874a43a1663
 =======
 guid: a3b4d4955ce9b2349a200fa03fd54e0f
 >>>>>>> Stashed changes
+=======
+guid: 38b0b6aa9e228834fbd42874a43a1663
+>>>>>>> pruebas3
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
