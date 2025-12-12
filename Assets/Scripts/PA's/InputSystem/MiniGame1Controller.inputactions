@@ -1,0 +1,83 @@
+{
+    "version": 1,
+    "name": "MiniGame1Controller",
+    "maps": [
+        {
+            "name": "PlayerInput",
+            "id": "ba72cd95-8239-457c-b11f-6f4022accd70",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "3db7cada-272f-4b37-97e5-59065869e6b8",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "ac531aad-2e8c-4d9d-9ee1-d4fef3a36f57",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7c61ef62-a3be-4ea2-b575-ccf3eb5c7ce7",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c04da89e-afe2-4010-808b-1b0bc32f7085",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map1",
+            "id": "0041d87f-7b08-4c94-a20c-604e6d80def9",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "c1881a73-66ab-4122-8d9d-19565e444678",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a2f29507-e112-4754-af24-a44776f0ab23",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

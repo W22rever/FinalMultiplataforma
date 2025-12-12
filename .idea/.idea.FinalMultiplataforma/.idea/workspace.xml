@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="739e2c83-9c7a-44b3-ae25-0a9c5dc05694" name="Changes" comment="">
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalMultiplataforma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalMultiplataforma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Final/Patitos.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Final/Patitos.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Bullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Ducks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Ducks.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Gun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Gun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FinalMultiplataforma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Enemies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Enemies/Enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Enemies/Enemy1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Enemies/Enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Enemies/Enemy2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Player/Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/Player/Player.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/Sprites/tiles_packed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/Sprites/tiles_packed.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_100.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_100.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_101.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_101.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_102.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_102.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_103.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_103.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_104.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_104.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_105.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_105.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_106.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_106.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_107.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_107.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_108.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_108.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_109.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_109.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_110.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_110.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_111.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_111.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_112.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_112.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_113.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_113.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_114.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_114.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_115.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_115.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_116.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_116.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_117.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_117.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_118.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_118.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_119.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_119.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_36.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_36.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_37.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_37.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_38.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_38.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_39.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_39.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_40.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_40.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_41.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_41.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_42.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_42.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_43.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_43.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_44.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_44.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_45.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_45.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_46.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_46.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_47.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_47.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_48.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_48.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_49.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_49.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_50.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_50.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_51.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_51.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_52.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_52.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_53.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_53.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_54.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_54.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_55.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_55.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_56.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_56.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_57.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_57.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_58.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_58.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_59.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_59.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_60.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_60.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_61 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_61 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_61.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_61.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_62 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_62 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_62.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_62.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_63 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_63 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_63.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_63.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_64.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_64.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_65.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_65.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_66.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_66.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_67.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_67.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_68.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_68.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_69.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_69.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_70.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_70.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_71.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_71.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_72.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_72.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_73.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_73.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_74.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_74.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_75.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_75.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_76.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_76.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_77.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_77.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_78.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_78.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_79.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_79.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_80.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_80.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_81.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_81.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_82.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_82.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_83.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_83.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_84.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_84.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_85.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_85.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_86.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_86.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_87.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_87.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_88.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_88.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_89.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_89.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_90.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_90.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_91.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_91.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_92.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_92.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_93.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_93.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_94.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_94.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_95.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_95.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_96.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_96.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_97.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_97.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_98.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_98.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_99.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/2D Sprites/MiniGame1/TileMap/tiles/tiles_packed_99.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/3D OBJECTS.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Final/Minijuegos Juan.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Final/Minijuegos Juan/MiniGame1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Final/Minijuegos Juan/MiniGame1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager/AudioEventSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager/AudioEventSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager/AudioManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager/AudioManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/Enemy/Explotion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/Enemy/Explotion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/GameManager/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/GameManager/GameManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/GameManager/UIManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/GameManager/UIManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/ObjectPooling/ExploPooling.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MiniGame1/ObjectPooling/ExploPooling.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Build Profiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Build Profiles/Android™.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Build Profiles/Android™.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Dynamic Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Dynamic Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Fixed Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Fixed Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Floating Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Floating Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Variable Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Prefabs/Variable Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Base/Joystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Base/Joystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/DynamicJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/DynamicJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/FloatingJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/FloatingJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/JoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/JoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/VariableJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Editor/VariableJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/DynamicJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/DynamicJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/FixedJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/FixedJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/FloatingJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/FloatingJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/VariableJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Scripts/Joysticks/VariableJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Handles/Handle_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Virtual Joystick/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalMultiplataforma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalMultiplataforma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/Bullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PC_Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+>>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+<<<<<<< Updated upstream
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PA's/FINAL/PlusScoreUI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Juadaz123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/W22rever/FinalMultiplataforma.git&quot;,
+    &quot;accountId&quot;: &quot;c5546dbd-2c18-482f-8b16-157f6efb8f4e&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MiniGame1/InputSystem/MiniGame1Controller.inputactions" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@dda977a1d52f/Runtime/TMP/TextMeshProUGUI.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+>>>>>>> Stashed changes
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36LswQUZT8vBdNVQOKSqogKEBBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< Updated upstream
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+=======
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+>>>>>>> Stashed changes
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.14f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Mateo\FinalMultiplataforma -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Mateo\FinalMultiplataforma" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.2.14f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Mateo\FinalMultiplataforma -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Mateo\FinalMultiplataforma" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="739e2c83-9c7a-44b3-ae25-0a9c5dc05694" name="Changes" comment="" />
+      <created>1764797424980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764797424980</updated>
+      <workItem from="1764797427530" duration="37000" />
+<<<<<<< Updated upstream
+      <workItem from="1765102118212" duration="17151000" />
+      <workItem from="1765240162735" duration="146000" />
+      <workItem from="1765245834634" duration="1837000" />
+      <workItem from="1765265195385" duration="17757000" />
+      <workItem from="1765321578910" duration="28896000" />
+=======
+      <workItem from="1765248582018" duration="3972000" />
+      <workItem from="1765255226337" duration="14728000" />
+      <workItem from="1765361387008" duration="3527000" />
+      <workItem from="1765413492482" duration="7917000" />
+>>>>>>> Stashed changes
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+<<<<<<< Updated upstream
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+=======
+>>>>>>> Stashed changes
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

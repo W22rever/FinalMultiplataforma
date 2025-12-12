@@ -4,11 +4,15 @@
 TagManager:
   serializedVersion: 3
   tags:
+<<<<<<< Updated upstream
   - Duck
   - Table
   - Basket
   - Hazard
   - Gift
+  - Enemy
+  - Bullet
+  - Music
   layers:
   - Default
   - TransparentFX
