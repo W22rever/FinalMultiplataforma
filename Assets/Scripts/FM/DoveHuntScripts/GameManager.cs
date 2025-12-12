@@ -4,6 +4,7 @@ using System.Collections;
 using TMPro;
 using UnityEngine.SceneManagement;
 
+namespace FM.DoveHuntScripts {
 public class GameManager : MonoBehaviour
 {
     private RectTransform rtMainMenu;
@@ -160,7 +161,7 @@ public class GameManager : MonoBehaviour
         Bullet.ResetScore?.Invoke();
 
         // Resetear arma
-        Gun gun = FindFirstObjectByType<Gun>(); 
+        FM.DoveHuntScripts.Gun gun = FindFirstObjectByType<Gun>(); 
         if (gun) gun.ResetGun();
         
         PlusScoreUI plusScore = FindFirstObjectByType<PlusScoreUI>();
@@ -199,4 +200,5 @@ public class GameManager : MonoBehaviour
         yield return new WaitForSeconds(0.2f);
         panelVictory.SetActive(true);
     }
+}
 }

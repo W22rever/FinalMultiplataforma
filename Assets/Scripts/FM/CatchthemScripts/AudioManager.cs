@@ -1,9 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class AudioManagerCG : MonoBehaviour
+namespace FM.CatchthemScripts
 {
-    public static AudioManagerCG Instance;
+    
+
+
+public class AudioManager : MonoBehaviour
+{
+    public static AudioManager Instance;
 
     [Header("Audio Sources")]
     [SerializeField] private AudioSource musicSource;
@@ -82,4 +87,4 @@ public class AudioManagerCG : MonoBehaviour
         musicSource.clip = clip;
         musicSource.Stop();
     }
-}
+}}

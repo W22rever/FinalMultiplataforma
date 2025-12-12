@@ -9,23 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-<<<<<<< HEAD
-
-    path: Assets/Scenes/Final/Minijuegos Juan/MiniGame1.unity
-    guid: acee7870482b922438d76e4ce0b818e6
-=======
     path: Assets/Scenes/Main/Main.unity
     guid: 0b450caf5f62566449dcf37832d7295a
   - enabled: 1
-    path: Assets/Scenes/DoveHunt/Palomas.unity
+    path: Assets/Scenes/Final/Palomas.unity
     guid: b49adf422bc1ca847b69b0b907466669
   - enabled: 1
-    path: Assets/Scenes/Catchthem/Menu.unity
-    guid: 2d453f13613798e49aee5df3c2924504
-  - enabled: 1
-    path: Assets/Scenes/Catchthem/AtrapalosGameplay.unity
-    guid: 44c9cb740aebc6642879e5979ac6a09f
->>>>>>> pruebas3
+    path: Assets/Scenes/Final/Minijuegos Juan/PlaneGame.unity
+    guid: acee7870482b922438d76e4ce0b818e6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

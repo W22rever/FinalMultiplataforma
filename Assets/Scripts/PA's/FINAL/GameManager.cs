@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     [HideInInspector] public GameObject panelOnPause;
     [HideInInspector] public bool ignoreNextClick;
     
-    [SerializeField] private AudioManager audioManager;
+    [SerializeField] private FM.CatchthemScripts.AudioManager audioManager;
     
     [Header("Victory UI")]
     [SerializeField] private GameObject panelVictory;
@@ -165,7 +165,7 @@ public class GameManager : MonoBehaviour
         Bullet.ResetScore?.Invoke();
 
         // Resetear arma
-        Gun gun = FindFirstObjectByType<Gun>(); 
+        Final.Gun gun = FindFirstObjectByType<Final.Gun>(); 
         if (gun) gun.ResetGun();
         
         PlusScoreUI plusScore = FindFirstObjectByType<PlusScoreUI>();

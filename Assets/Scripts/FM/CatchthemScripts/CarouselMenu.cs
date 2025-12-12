@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
+using FM.DoveHuntScripts;
 public class CarouselMenu : MonoBehaviour
 {
     [SerializeField] private float slideDuration = 0.4f; 
@@ -77,7 +78,7 @@ public class CarouselMenu : MonoBehaviour
     
     public void ExitGame()
     { 
-        AudioManager audio = FindFirstObjectByType<AudioManager>();
+        FM.DoveHuntScripts.AudioManager audio = FindFirstObjectByType<AudioManager>();
         if (audio) audio.ChangeToMenuMusic();
         SceneManager.LoadScene("Main");
         

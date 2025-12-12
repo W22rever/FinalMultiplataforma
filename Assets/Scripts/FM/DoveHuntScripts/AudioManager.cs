@@ -1,6 +1,9 @@
 using UnityEngine;
 using UnityEngine.Audio;
 
+namespace FM.DoveHuntScripts
+{
+    
 public class AudioManager : MonoBehaviour
 {
     [SerializeField] AudioMixer audioMixer;
@@ -78,5 +81,6 @@ public class AudioManager : MonoBehaviour
         gameplayMusicSource.Stop();
         gameplayMusicSource.mute = false;
         gameplayMusicSource.Play();
+    }
     }
 }

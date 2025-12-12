@@ -3,6 +3,10 @@ using System.Collections;
 using TMPro;
 using UnityEngine.EventSystems;
 
+namespace FM.DoveHuntScripts
+{
+    
+
 public class Gun : MonoBehaviour
 {
     [Header("Gun Settings")]
@@ -46,7 +50,7 @@ public class Gun : MonoBehaviour
     private GameManager _gameManager;
     
     //AUDIO MANAGER
-    private AudioManager _audioManager;
+    private FM.DoveHuntScripts.AudioManager _audioManager;
     
     private void Awake()
     {
@@ -57,7 +61,7 @@ public class Gun : MonoBehaviour
         _limitYBottom = transform.position.y;
         
         _gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-        _audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+        _audioManager = GameObject.Find("AudioManager").GetComponent<FM.DoveHuntScripts.AudioManager>();
     }
 
     private void Start()
@@ -247,4 +251,5 @@ public class Gun : MonoBehaviour
         return false;
     }
     
+}
 }

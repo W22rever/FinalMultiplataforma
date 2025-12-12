@@ -1,6 +1,10 @@
 using System;
 using UnityEngine;
 
+namespace Fm.DoveHuntScripts
+{
+    
+
 public class Bullet : MonoBehaviour
 {
     [HideInInspector] public int bulletSpeed;
@@ -13,17 +17,17 @@ public class Bullet : MonoBehaviour
     public static Action ResetScore;
     private int _ducksShooted;
     
-    private AudioManager _audioManager;
+    private FM.DoveHuntScripts.AudioManager _audioManager;
     private GameManager _gameManager;
-    private Gun _gun;
+    private FM.DoveHuntScripts.Gun _gun;
     
     [SerializeField] private PlusScoreUI scorePrefab;
 
     private void Awake()
     {
-        _audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+        _audioManager = GameObject.Find("AudioManager").GetComponent<FM.DoveHuntScripts.AudioManager>();
         _gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-        _gun = gameObject.GetComponentInParent<Gun>();
+        _gun = gameObject.GetComponentInParent<FM.DoveHuntScripts.Gun>();
     } 
     
     private void Start()
@@ -124,4 +128,5 @@ public class Bullet : MonoBehaviour
     {
         OnDestroyDuck?.Invoke(_ducksShooted);
     }
+}
 }

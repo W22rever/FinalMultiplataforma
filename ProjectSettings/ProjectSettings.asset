@@ -8,20 +8,12 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-<<<<<<< HEAD
-  defaultScreenOrientation: 0
-=======
-  defaultScreenOrientation: 4
->>>>>>> pruebas3
+  defaultScreenOrientation: 2
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: GDCI
-<<<<<<< HEAD
   productName: FinalMultiplataforma
-=======
-  productName: Minigames
->>>>>>> pruebas3
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -50,13 +42,8 @@ PlayerSettings:
   m_SplashScreenLogos: []
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
-<<<<<<< HEAD
   defaultScreenWidth: 1920
   defaultScreenHeight: 1080
-=======
-  defaultScreenWidth: 1024
-  defaultScreenHeight: 768
->>>>>>> pruebas3
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
@@ -88,22 +75,13 @@ PlayerSettings:
   androidResizeableActivity: 1
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
-<<<<<<< HEAD
   androidMinimumWindowWidth: 1920
   androidMinimumWindowHeight: 1080
-=======
-  androidMinimumWindowWidth: 400
-  androidMinimumWindowHeight: 300
->>>>>>> pruebas3
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
   androidPredictiveBackSupport: 1
   androidApplicationEntry: 2
-<<<<<<< HEAD
   defaultIsNativeResolution: 0
-=======
-  defaultIsNativeResolution: 1
->>>>>>> pruebas3
   macRetinaSupport: 1
   runInBackground: 0
   muteOtherAudioSources: 0
@@ -118,11 +96,7 @@ PlayerSettings:
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
   useFlipModelSwapchain: 1
-<<<<<<< HEAD
   resizableWindow: 1
-=======
-  resizableWindow: 0
->>>>>>> pruebas3
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
   gpuSkinning: 1
@@ -204,11 +178,7 @@ PlayerSettings:
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 23
-<<<<<<< HEAD
   AndroidTargetSdkVersion: 35
-=======
-  AndroidTargetSdkVersion: 0
->>>>>>> pruebas3
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -297,11 +267,7 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
-<<<<<<< HEAD
   AndroidTargetArchitectures: 11
-=======
-  AndroidTargetArchitectures: 2
->>>>>>> pruebas3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
@@ -329,18 +295,7 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
-<<<<<<< HEAD
   m_BuildTargetIcons: []
-=======
-  m_BuildTargetIcons:
-  - m_BuildTarget: 
-    m_Icons:
-    - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: a2d298e607686cf42bfac15fb1e16c5b, type: 3}
-      m_Width: 128
-      m_Height: 128
-      m_Kind: 0
->>>>>>> pruebas3
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
     m_Icons:

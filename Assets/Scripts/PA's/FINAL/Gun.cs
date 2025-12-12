@@ -3,6 +3,11 @@ using System.Collections;
 using TMPro;
 using UnityEngine.EventSystems;
 
+namespace Final
+{
+    
+
+
 public class Gun : MonoBehaviour
 {
     [Header("Gun Settings")]
@@ -247,4 +252,5 @@ public class Gun : MonoBehaviour
         return false;
     }
     
+}
 }

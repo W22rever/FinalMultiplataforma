@@ -1,5 +1,9 @@
 using UnityEngine;
 
+namespace  FM.DoveHuntScripts
+{
+    
+
 public class Ducks : MonoBehaviour
 {
     [SerializeField] private int speed;
@@ -83,4 +87,5 @@ public class Ducks : MonoBehaviour
         // Reset timer
         _timer = 0;
     }
+}
 }

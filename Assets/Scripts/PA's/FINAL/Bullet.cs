@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
-
-public partial class Bullet : MonoBehaviour
+using Final;
+public class Bullet : MonoBehaviour
 {
     [HideInInspector] public int bulletSpeed;
     [HideInInspector] public float distanceToReturn;
@@ -13,7 +13,7 @@ public partial class Bullet : MonoBehaviour
     public static Action ResetScore;
     private int _ducksShooted;
     
-    private AudioManager _audioManager;
+    private Final.AudioManager _audioManager;
     private GameManager _gameManager;
     private Gun _gun;
     
@@ -21,7 +21,7 @@ public partial class Bullet : MonoBehaviour
 
     private void Awake()
     {
-        _audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+        _audioManager = GameObject.Find("AudioManager").GetComponent<Final.AudioManager>();
         _gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         _gun = gameObject.GetComponentInParent<Gun>();
     } 

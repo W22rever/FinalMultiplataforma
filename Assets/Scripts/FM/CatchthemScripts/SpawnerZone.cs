@@ -1,8 +1,12 @@
-using System;
 using UnityEngine;
 using System.Collections.Generic;
 using System.Collections;
 using Random = UnityEngine.Random;
+using FM.CatchthemScripts.GameManagement;
+
+namespace  FM.CatchthemScripts
+{
+    
 
 public class SpawnerZone : MonoBehaviour
 {
@@ -103,7 +107,7 @@ public class SpawnerZone : MonoBehaviour
 
     private void Spawn()
     {
-        if (GameManagerCG.Instance.state != GameState.Playing) return;
+        if (FM.CatchthemScripts.GameManagement.GameManager.Instance.state != GameState.Playing) return;
         
         GameObject prefab = prefabs[Random.Range(0, prefabs.Count)];
         Queue<PoolItem> cola = pool[prefab];
@@ -156,4 +160,4 @@ public class SpawnerZone : MonoBehaviour
     {
         StopAllCoroutines();
     }
-}
+}}

@@ -2,6 +2,10 @@ using UnityEngine;
 using DG.Tweening;
 using TMPro;
 
+namespace FM.DoveHuntScripts
+{
+    
+
 public class PlusScoreUI : MonoBehaviour
 {
     [SerializeField] private TMP_Text text;
@@ -28,4 +32,5 @@ public class PlusScoreUI : MonoBehaviour
         // Auto-destruir al terminar
         sequence.OnComplete(() => Destroy(gameObject));
     }
+}
 }

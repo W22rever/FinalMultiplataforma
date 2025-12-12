@@ -1,14 +1,18 @@
 using UnityEngine;
 
+namespace FM.CatchthemScripts.GameManagement
+{
+    
+
 public enum GameState
 {
     Playing,
     GameOver,
 }
 
-public class GameManagerCG : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
-    public static GameManagerCG Instance;
+    public static GameManager Instance;
 
     [Header("Life")]
     [SerializeField] private int maxLife = 3;
@@ -52,7 +56,7 @@ public class GameManagerCG : MonoBehaviour
         if (timeInt <= 0)
         {
             EndGame("time");
-            AudioManagerCG.Instance.PlaySFX(AudioManagerCG.Instance.timeUpSFX,0.7f);
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.timeUpSFX,0.7f);
         }
     }
 
@@ -72,7 +76,7 @@ public class GameManagerCG : MonoBehaviour
         if (_life <= 0)
         {
             EndGame("life");
-            AudioManagerCG.Instance.PlaySFX(AudioManagerCG.Instance.deathSFX, 0.6f);
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.deathSFX, 0.6f);
         }
     }
     
@@ -87,4 +91,5 @@ public class GameManagerCG : MonoBehaviour
         GameEvents.OnEndGame?.Invoke(reason);
     }
     
+}
 }

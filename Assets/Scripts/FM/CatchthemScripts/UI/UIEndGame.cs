@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using FM.CatchthemScripts.GameManagement;
 public class UIEndGame : MonoBehaviour
 {
     [Header("Panel Final")]
@@ -46,7 +47,7 @@ public class UIEndGame : MonoBehaviour
             titleText.text = "TIME'S OVER! CONGRATULATIONS!";
 
         // Mostrar score real sin ceros
-        finalScoreText.text = $"TOTAL SCORE: {GameManagerCG.Instance.Score.ToString()}";
+        finalScoreText.text = $"TOTAL SCORE: {FM.CatchthemScripts.GameManagement.GameManager.Instance.Score.ToString()}";
     }
 
     private void RestartLevel()

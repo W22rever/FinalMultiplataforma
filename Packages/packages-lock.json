@@ -31,19 +31,11 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {
-<<<<<<< HEAD
-        "com.unity.2d.sprite": "1.0.0",
-        "com.unity.mathematics": "1.1.0",
-        "com.unity.modules.uielements": "1.0.0",
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.burst": "1.8.4"
-=======
         "com.unity.burst": "1.8.4",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
->>>>>>> pruebas3
       },
       "url": "https://packages.unity.com"
     },
@@ -104,8 +96,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.ads": {
       "version": "4.4.2",
       "depth": 0,
@@ -115,7 +105,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> pruebas3
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
@@ -125,8 +114,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -137,7 +124,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> pruebas3
     "com.unity.burst": {
       "version": "1.8.25",
       "depth": 2,
@@ -238,8 +224,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
@@ -260,7 +244,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> pruebas3
     "com.unity.render-pipelines.core": {
       "version": "17.2.0",
       "depth": 1,
@@ -311,8 +294,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.services.analytics": {
       "version": "6.1.0",
       "depth": 1,
@@ -329,13 +310,12 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.modules.androidjni": "1.0.0"
+        "com.unity.modules.unitywebrequest": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> pruebas3
     "com.unity.shadergraph": {
       "version": "17.2.0",
       "depth": 1,
@@ -396,8 +376,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 0,
@@ -408,7 +386,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> pruebas3
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

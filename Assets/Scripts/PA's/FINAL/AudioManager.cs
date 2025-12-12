@@ -1,6 +1,10 @@
 using UnityEngine;
 using UnityEngine.Audio;
 
+namespace Final
+{
+    
+
 public class AudioManager : MonoBehaviour
 {
     [SerializeField] AudioMixer audioMixer;
@@ -79,4 +83,5 @@ public class AudioManager : MonoBehaviour
         gameplayMusicSource.mute = false;
         gameplayMusicSource.Play();
     }
+}
 }
