@@ -26,12 +26,12 @@
                 },
                 {
                     "name": "Touch",
-                    "type": "PassThrough",
+                    "type": "Value",
                     "id": "1a907d22-cbf0-4786-81fc-9fcaba26962c",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -104,7 +104,7 @@
                 {
                     "name": "",
                     "id": "4719f6e6-44fe-4291-b2c1-3976feaff1e7",
-                    "path": "<Touchscreen>/primaryTouch/position",
+                    "path": "<Pointer>/position",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

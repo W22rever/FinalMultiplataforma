@@ -462,7 +462,7 @@ MonoBehaviour:
   prefab: {fileID: 5435881927556928679, guid: debb1a452e62ba5409e89569d7a0840c, type: 3}
   defaultCapacity: 10
   maxSize: 100
-  spawnInterval: 3
+  spawnInterval: 2.2
   spawnAreaSize: {x: 8, y: 2}
   gizmoColor: {r: 0, g: 1, b: 0, a: 1}
 --- !u!1 &405328921
@@ -679,9 +679,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f61dca7f97d3425788509005c86622ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MiniGame1.ExploPooling
-  _prefab: {fileID: 6819329045409399749, guid: d652ce1d8d18a8f4a951ff1b90fb42ab, type: 3}
-  _defaultCapacity: 15
-  _maxSize: 30
+  prefab: {fileID: 6819329045409399749, guid: d652ce1d8d18a8f4a951ff1b90fb42ab, type: 3}
+  defaultCapacity: 10
+  maxSize: 100
 --- !u!4 &499994392
 Transform:
   m_ObjectHideFlags: 0
@@ -811,7 +811,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 764375019}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &764375019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -955,17 +967,17 @@ RectTransform:
   m_GameObject: {fileID: 858491537}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 972497001}
   - {fileID: 1251279309}
   m_Father: {fileID: 2096673114}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.20464586, y: 0}
-  m_AnchorMax: {x: 0.8285626, y: 1}
-  m_AnchoredPosition: {x: -31.5, y: -0.5}
-  m_SizeDelta: {x: 128.04785, y: -335.66064}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &858491539
 MonoBehaviour:
@@ -980,7 +992,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.9137255}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.972549}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1999,7 +2011,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.45163506}
-  m_AnchoredPosition: {x: 0, y: 20.202026}
+  m_AnchoredPosition: {x: 0, y: 20.202148}
   m_SizeDelta: {x: -400, y: -179.79796}
   m_Pivot: {x: 0.5, y: 1.0000001}
 --- !u!114 &1251279310
@@ -2143,7 +2155,7 @@ MonoBehaviour:
   prefab: {fileID: -8736693292360900478, guid: 66b24182e412a7f48bf6e863caa1432e, type: 3}
   defaultCapacity: 10
   maxSize: 20
-  spawnInterval: 2
+  spawnInterval: 1.5
   spawnAreaSize: {x: 10, y: 3}
   gizmoColor: {r: 0, g: 1, b: 0, a: 1}
 --- !u!1 &1699090413
@@ -2960,13 +2972,13 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 426123946}
+  - {fileID: 1188367045}
   - {fileID: 1761492736}
   - {fileID: 467455938}
-  - {fileID: 1188367045}
   - {fileID: 1973552736}
-  - {fileID: 1767271588}
   - {fileID: 858491538}
-  - {fileID: 426123946}
+  - {fileID: 1767271588}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}

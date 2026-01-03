@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager.AudioEventSO
   audioName: PlayerGun
   audioClip: {fileID: 8300000, guid: 7f2a0e67ef1982940936a6a58bf0f030, type: 3}
-  volumen: 0.333
+  volumen: 0.11

@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -16,7 +15,7 @@ public class PlayerControllerMiniGame1 : MonoBehaviour
     [SerializeField] private float fireRate = 0.5f;
 
     private Vector2 _moveDirection;
-    private bool _ispressed = false;
+    private bool _ispressed;
     private Rigidbody2D _rb;
     private Coroutine _activeFireCoroutine;
     
@@ -34,12 +33,13 @@ public class PlayerControllerMiniGame1 : MonoBehaviour
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _bulletPooling = FindFirstObjectByType<ObjectPooling.BulletPooling>();
         _rb = GetComponent<Rigidbody2D>();
-        _lifeSystem = GetComponent<MiniGame1.LifeSystem>();
+        _lifeSystem = GetComponent<LifeSystem>();
     }
-    #if  UNITY_ANDROID
+    #if  UNITY_ANDROID 
     private void Start()
     {
-        StartCoroutine(FireBulletsRoutine());
+        StartCoroutine(FireBulletsRoutine(true));
+        
     }
     #endif
     private void Update()
@@ -59,26 +59,10 @@ public class PlayerControllerMiniGame1 : MonoBehaviour
 
     public void OnFire(InputAction.CallbackContext context)
     {
-        if (context.performed)
-        {
-            _ispressed = true;
-            if (_activeFireCoroutine == null)
-            {
-                _activeFireCoroutine = StartCoroutine(FireBulletsRoutine());
-            }
-        }
-
-        if (context.canceled)
-        {
-            _ispressed = false;
-            if (_activeFireCoroutine != null)
-            {
-                StopCoroutine(_activeFireCoroutine);
-                _activeFireCoroutine = null;
-            }
-        }
+        if (context.performed) StartCoroutine(FireBulletsRoutine(false));
+        if (context.canceled) StopAllCoroutines();
     }
-    #if UNITY_EDITOR && UNITY_ANDROID
+    
     public void OnTouchPosition(InputAction.CallbackContext context) 
     {
         Vector2 screenPosition = context.ReadValue<Vector2>(); 
@@ -86,29 +70,33 @@ public class PlayerControllerMiniGame1 : MonoBehaviour
         Vector3 worldPosition = _mainCamera.ScreenToWorldPoint(screenPosition);
         worldPosition.z = 0;
 
-        Debug.Log($"Pantalla: {screenPosition} -> Mundo: {worldPosition}");
+        // Debug.Log($"Pantalla: {screenPosition} -> Mundo: {worldPosition}");
+        
         
         transform.position = worldPosition;
     }
-    #endif
+    
     private void FixedUpdate()
     {
         _rb.linearVelocity = _moveDirection * moveSpeed;
     }
 
-    private IEnumerator FireBulletsRoutine()
+    private IEnumerator FireBulletsRoutine(bool autoFire)
     {
-        while (_ispressed)
+        // Un solo bucle limpio
+        while (autoFire) 
         {
             if (_bulletPooling != null)
             {
                 _bulletPooling.SpawnBullet();
-                AudioManager.Instance.PlaySound("PlayerGun");
+                if(AudioManager.Instance != null)
+                    AudioManager.Instance.PlaySound("PlayerGun");
             }
-            
             yield return new WaitForSeconds(fireRate);
-        }
-        _activeFireCoroutine = null;
+
+            if (!autoFire)yield break;
+            
+        }  
     }
     
     //Life System
@@ -131,7 +119,7 @@ public class PlayerControllerMiniGame1 : MonoBehaviour
         // Debug.Log("currentHealt" + _lifeSystem.currenthealth());
         _spriteRenderer.color = Color.red; 
         _lifeSystem.TakeDamage(1);
-        MiniGame1.AudioManager.Instance.PlaySound("DamagePlayer");
+        AudioManager.Instance.PlaySound("DamagePlayer");
         
         
         yield return new WaitForSeconds(0.3f);

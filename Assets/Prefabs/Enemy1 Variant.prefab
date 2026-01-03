@@ -9,8 +9,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8736693292360900478, guid: 66b24182e412a7f48bf6e863caa1432e, type: 3}
+      propertyPath: enemySpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8736693292360900478, guid: 66b24182e412a7f48bf6e863caa1432e, type: 3}
       propertyPath: waitedTime
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8736693292360900478, guid: 66b24182e412a7f48bf6e863caa1432e, type: 3}
+      propertyPath: typeOfEnemy
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 403635520762553939, guid: 66b24182e412a7f48bf6e863caa1432e, type: 3}
       propertyPath: m_Sprite
